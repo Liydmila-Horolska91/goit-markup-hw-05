@@ -626,7 +626,6 @@ display: flex;
         min-width: 165px;
         justify-content: center;
         flex-direction: row;
-        gap: 16px;
         border: none;
         border-radius: 4px;
         padding: 8px 24px;
@@ -647,7 +646,8 @@ display: flex;
         width: 40px;
         height: 40px;
         fill: #fff;
-        margin-left: 16px;
+        margin-left: auto;
+
 }
 
 /*MODAL OVERLAY*/
